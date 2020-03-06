@@ -1,0 +1,15 @@
+﻿  Scene.cpp
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(122,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(122,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(122,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(122,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(176,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(184,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(185,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(190,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(198,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(199,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(394,21): warning C4477: 'sprintf_s' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'double'
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(394,21): warning C4477: 'sprintf_s' : format string '%i' requires an argument of type 'int', but variadic argument 2 has type 'double'
+E:\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(394,21): warning C4477: 'sprintf_s' : format string '%i' requires an argument of type 'int', but variadic argument 3 has type 'double'
+  GraphicsProgramming.vcxproj -> E:\CMP203-Framework-master\GraphicsProgramming\Debug\GraphicsProgramming.exe
